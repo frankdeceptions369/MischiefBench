@@ -211,6 +211,5 @@ __marimo__/
 # Custom
 api_key.txt
 # outputs/ 
-*.jsonl   
-api_key.txt 
+# *.jsonl
 .vs/ 
