@@ -1,5 +1,5 @@
 rank,model,avg_sandbagging_index,num_tasks
-1,Qwen/Qwen2.5-7B-Instruct-Turbo,0.0246,15
-2,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,0.0221,15
-3,meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8,0.02,15
-4,mistralai/Mistral-7B-Instruct-v0.3,-0.0071,15
+1,meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8,0.023,17
+2,Qwen/Qwen2.5-7B-Instruct-Turbo,0.0198,17
+3,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,0.0183,17
+4,mistralai/Mistral-7B-Instruct-v0.3,-0.0068,17
